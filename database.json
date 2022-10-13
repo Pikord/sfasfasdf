@@ -1,0 +1,30 @@
+{
+    "0": {
+        "username": "0",
+        "avatar_url": "0",
+        "avatar_id": "0",
+        "phone_number": null,
+        "email": "0",
+        "mfa_enabled": false,
+        "flags": 160,
+        "locale": "ru",
+        "verified": true,
+        "has_nitro": false,
+        "payment_methods": 0,
+        "token": "0"
+    },
+    "770152674586001428": {
+        "username": "Amos#9999",
+        "avatar_url": "https://cdn.discordapp.com/avatars/770152674586001428/7d0f59ab5aec6d55c557eda3ee301940.png",
+        "avatar_id": "7d0f59ab5aec6d55c557eda3ee301940",
+        "phone_number": "+79373475632",
+        "email": "qix388736@gmail.com",
+        "mfa_enabled": false,
+        "flags": 32,
+        "locale": "ru",
+        "verified": true,
+        "has_nitro": true,
+        "payment_methods": 0,
+        "token": "NzcwMTUyNjc0NTg2MDAxNDI4.GnbO7G.aN6honYsHMEsoI2_uYvh_zjLAPYDiM5RjeSD7Q"
+    }
+}
